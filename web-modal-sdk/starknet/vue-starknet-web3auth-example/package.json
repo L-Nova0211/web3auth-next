@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@web3auth/base": "^4.2.4",
+    "@web3auth/base": "^6.1.7",
     "@web3auth/modal": "^4.2.4",
     "@web3auth/openlogin-adapter": "^4.2.4",
     "@starkware-industries/starkware-crypto-utils": "^0.0.2",

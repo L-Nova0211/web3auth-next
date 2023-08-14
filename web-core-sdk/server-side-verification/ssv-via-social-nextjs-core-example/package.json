@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@toruslabs/eccrypto": "^1.1.8",
-    "@web3auth/base": "^4.2.4",
+    "@web3auth/base": "^6.1.7",
     "@web3auth/core": "^4.2.4",
     "@web3auth/openlogin-adapter": "^4.2.4",
     "ethers": "^5.7.2",

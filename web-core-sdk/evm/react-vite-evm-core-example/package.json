@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@web3auth/base": "^4.2.4",
+    "@web3auth/base": "^6.1.7",
     "@web3auth/core": "^4.2.4",
     "@web3auth/openlogin-adapter": "^4.2.4",
     "react": "^18.2.0",
